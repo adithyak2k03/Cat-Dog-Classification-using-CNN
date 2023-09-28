@@ -1,5 +1,5 @@
 # Convolutional_neural_network
-Working of a CNN architecture
+Working of a CNN architecture on Cats and dogs dataset
 
 
 Dataset used : 
